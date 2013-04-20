@@ -1,0 +1,7 @@
+:def ex0 (\ _ -> return ":set args --trace-main=1 ./xml-test-suite/xmlconf/xmlconf.xml")
+
+:def x (\ _ -> return ":load TestSuite")
+
+:x
+
+:module + IO Main

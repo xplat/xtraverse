@@ -1,0 +1,9 @@
+GenDoc
+MemTest
+PruneLeft
+PruneRight
+ReadDoc
+tree-*.xml
+*.aux
+*.bin
+MemTest1
